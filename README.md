@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alimammadlii
-- 👀 I’m interested in backend software engineering.
-- 🌱 I’m currently learning and improving myself with JavaScript and Node.js.
+- 👀 I’m interested in Back End software engineering.
+- 🌱 I’m currently learning and improving myself on Node.js Back End Development.
 - 📫 You can reach me via Linkedin ==> https://www.linkedin.com/in/ali-mammadlii/
 
 <!---
