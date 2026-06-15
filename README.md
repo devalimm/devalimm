@@ -6,7 +6,6 @@ I am a passionate **Back-End Software Engineer** focused on building scalable, e
 
 ### 🛠️ Tech Stack & Tools
 
-*Visualizing your skills with clean badges helps recruiters and developers skim your profile instantly:*
 
 💻 **Languages & Runtime:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
