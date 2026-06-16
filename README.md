@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ali! (@devalimm)
+# 👋 Hi, I'm Ali! (@devalimm)
 
 I am a passionate **Back-End Software Engineer** focused on building scalable, efficient, and robust server-side applications. Currently, I am deeply diving into the **Node.js** ecosystem, sharpening my skills in systems architecture, API design, and performance optimization.
 
