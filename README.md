@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ali! (@devalimm)
+# Hello, I'm Ali! (@devalimm)
 
 I am a passionate **Back-End Software Engineer** focused on building scalable, efficient, and robust server-side applications. Currently, I am deeply diving into the **Node.js** ecosystem, sharpening my skills in systems architecture, API design, and performance optimization.
 
@@ -25,12 +25,12 @@ I am a passionate **Back-End Software Engineer** focused on building scalable, e
 
 ---
 
-### 🌱 What I'm Currently Focused On
+### What I'm Currently Focused On
 
-- 🚀 Designing and optimizing secure, high-performance RESTful APIs with **Node.js & Express**.
-- 🏗️ Database modeling, schema design, and query optimization (Relational & NoSQL).
-- 📦 Implementing containerization workflows using **Docker** and managing deployments.
-- 📐 Learning software design patterns and clean architecture principles.
+-  Designing and optimizing secure, high-performance RESTful APIs with **Node.js & Express**.
+-  Database modeling, schema design, and query optimization (Relational & NoSQL).
+-  Implementing containerization workflows using **Docker** and managing deployments.
+-  Learning software design patterns and clean architecture principles.
 
 ---
 
